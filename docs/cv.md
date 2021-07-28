@@ -15,7 +15,7 @@
 
 2. Wang SE*, **Ko SY**, Kim YS*, Jo S, Lee SH, Jung SJ, Son H. Capsaicin upregulates HDAC2 via TRPV1 and impairs neuronal maturation in mice. Exp Mol Med. 2018 Mar 9;50(3):e455. ***Co-first author** [Link]
 
-3. Choi M*, Wang SE*, **Ko SY***, Kang HJ*, Chae SY, Lee SH, Kim YS, Duman RS, Son
+3. Choi M*, Wang SE*, **Ko SY**, Kang HJ*, Chae SY, Lee SH, Kim YS, Duman RS, Son
 H. Overexpression of human GATA-1 and GATA-2 interferes with spine formation
 and produces depressive behavior in rats. PLoS One. 2014 Oct 23;9(10):e109253. ***Co-first author** [Link]
 
@@ -31,22 +31,12 @@ upregulation of Ehmt2. Exp Neurobiol. 2019 Aug 28;28(4):537-546. [Link]
 
 - Choi M, **Ko SY**, Lee IY, Wang SE, Lee SH, Oh DH, Kim YS, Son H. Carbamylated erythropoietin promotes neurite outgrowth and neuronal spine formation in association with CBP/p300. Biochem Biophys Res Commun. 2014 Mar 28;446(1):79-84. [Link]
 
-## 🏆 Grants & Awards
-- The Paulette Isabel Jones PhD Completion Scholarship, University of Sydney, 2020.
-- AFA Ph.D. Student Travel Grant Award for the 2020 Annual Meeting in San Diego, California from January 3-5, 2020.
-- Outstanding PhD Student Paper Award at the 3rd Global PhD Colloquium in Fordham University, New York, April 2019.
-- The University of Sydney Honours Scholarship, University of Sydney, 2016.
 
 ## 🏛 RESEARCH EXPERIENCE
 
-- **Postdoctoral Fellow** Hanyang Biomedical Research Institute
-Hanyang University, Seoul, Korea (2019 - present)
+- **Postdoctoral Fellow** Hanyang Biomedical Research Institute Hanyang University, Seoul, Korea (2019 - present)
 
 - **Graduate Researcher** Graduate School of Biomedical Science and Engineering Hanyang University, Seoul, Korea (2013 - 2019)
-
-- Member of the Business Financing and Banking Research Group at the University of Sydney.
-- Discussant: 
-- The 2020 FMA Annual Meeting (Virtual), October 2020.
 
 ## 👨🏻‍🏫 SKILLS and TECHNIQUES
 
