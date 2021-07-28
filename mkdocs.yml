@@ -1,0 +1,40 @@
+site_name: Seung Yeon Ko
+
+
+## Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  # 404 page
+  static_templates:
+    - 404.html
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - navigation.tabs
+  palette:
+    primary: indigo
+    accent: purple
+  font:
+    text: Roboto
+    code: Roboto Mono
+  # icon:  # from .icons path. Add to theme override for custom logo.
+    # logo: up42-logo  # top left header logo
+  # favicon: assets/logo-up42.ico #browser tab logo
+
+
+# Customization
+extra:
+  version:
+    provider: mike
+
+## Page tree
+nav:
+    - Home: index.md
+    - CV: cv.md
+    - Research Notes:
+      - TRPM2 governs stress-induced depressive-like behaviors: research.md
+    
